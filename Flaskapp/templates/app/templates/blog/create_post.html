@@ -1,0 +1,11 @@
+<!-- myflaskpackage/templates/app/templates/blog/create_post.html -->
+
+{% extends "base.html" %} {% block content %}
+<h2>New Post</h2>
+<form method="POST" action="">
+  {{ form.hidden_tag() }}
+  <div>{{ form.title.label }} {{ form.title(size=64) }}</div>
+  <div>{{ form.content.label }} {{ form.content(rows=10) }}</div>
+  <div>{{ form.submit() }}</div>
+</form>
+{% endblock %}

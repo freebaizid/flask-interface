@@ -1,0 +1,604 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "click",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "click",
+        "description": "click",
+        "detail": "click",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "login_manager",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "ModelView",
+        "importPath": "flask_admin.contrib.sqla",
+        "description": "flask_admin.contrib.sqla",
+        "isExtraImport": true,
+        "detail": "flask_admin.contrib.sqla",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "RegistrationForm",
+        "importPath": "app.forms",
+        "description": "app.forms",
+        "isExtraImport": true,
+        "detail": "app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "LoginForm",
+        "importPath": "app.forms",
+        "description": "app.forms",
+        "isExtraImport": true,
+        "detail": "app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PostForm",
+        "importPath": "app.forms",
+        "description": "app.forms",
+        "isExtraImport": true,
+        "detail": "app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "login_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "logout_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "UserMixin",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskForm",
+        "importPath": "flask_wtf",
+        "description": "flask_wtf",
+        "isExtraImport": true,
+        "detail": "flask_wtf",
+        "documentation": {}
+    },
+    {
+        "label": "StringField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "SubmitField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "TextAreaField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "DataRequired",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "Length",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "Email",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EqualTo",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "copy_files",
+        "kind": 2,
+        "importPath": "build.lib.Flaskapp.cli",
+        "description": "build.lib.Flaskapp.cli",
+        "peekOfCode": "def copy_files(src, dest):\n    if os.path.exists(dest):\n        shutil.rmtree(dest)\n    shutil.copytree(src, dest)\n@click.command()\n@click.argument('app_name')\ndef create_flask_app(app_name):\n    \"\"\"Create a new Flask app with the given APP_NAME.\"\"\"\n    app_dir = os.path.join(os.getcwd(), app_name)\n    if os.path.exists(app_dir):",
+        "detail": "build.lib.Flaskapp.cli",
+        "documentation": {}
+    },
+    {
+        "label": "create_flask_app",
+        "kind": 2,
+        "importPath": "build.lib.Flaskapp.cli",
+        "description": "build.lib.Flaskapp.cli",
+        "peekOfCode": "def create_flask_app(app_name):\n    \"\"\"Create a new Flask app with the given APP_NAME.\"\"\"\n    app_dir = os.path.join(os.getcwd(), app_name)\n    if os.path.exists(app_dir):\n        click.echo(f\"Directory {app_name} already exists!\")\n        return\n    os.makedirs(app_dir)\n    copy_files(os.path.join(TEMPLATES_DIR, 'app'), os.path.join(app_dir, 'app'))\n    shutil.copy(os.path.join(TEMPLATES_DIR, 'config.py'), app_dir)\n    shutil.copy(os.path.join(TEMPLATES_DIR, 'app.py'), app_dir)",
+        "detail": "build.lib.Flaskapp.cli",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES_DIR",
+        "kind": 5,
+        "importPath": "build.lib.Flaskapp.cli",
+        "description": "build.lib.Flaskapp.cli",
+        "peekOfCode": "TEMPLATES_DIR = os.path.join(os.path.dirname(__file__), 'templates')\ndef copy_files(src, dest):\n    if os.path.exists(dest):\n        shutil.rmtree(dest)\n    shutil.copytree(src, dest)\n@click.command()\n@click.argument('app_name')\ndef create_flask_app(app_name):\n    \"\"\"Create a new Flask app with the given APP_NAME.\"\"\"\n    app_dir = os.path.join(os.getcwd(), app_name)",
+        "detail": "build.lib.Flaskapp.cli",
+        "documentation": {}
+    },
+    {
+        "label": "create_admin_views",
+        "kind": 2,
+        "importPath": "Flaskapp.templates.app.admin",
+        "description": "Flaskapp.templates.app.admin",
+        "peekOfCode": "def create_admin_views():\n    admin.add_view(ModelView(User, db.session))\n    admin.add_view(ModelView(Post, db.session))",
+        "detail": "Flaskapp.templates.app.admin",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "Flaskapp.templates.app.auth_routes",
+        "description": "Flaskapp.templates.app.auth_routes",
+        "peekOfCode": "def register():\n    if current_user.is_authenticated:\n        return redirect(url_for('main.index'))\n    form = RegistrationForm()\n    if form.validate_on_submit():\n        hashed_password = bcrypt.generate_password_hash(form.password.data).decode('utf-8')\n        user = User(username=form.username.data, email=form.email.data, password=hashed_password)\n        db.session.add(user)\n        db.session.commit()\n        flash('Your account has been created! You are now able to log in', 'success')",
+        "detail": "Flaskapp.templates.app.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "Flaskapp.templates.app.auth_routes",
+        "description": "Flaskapp.templates.app.auth_routes",
+        "peekOfCode": "def login():\n    if current_user.is_authenticated:\n        return redirect(url_for('main.index'))\n    form = LoginForm()\n    if form.validate_on_submit():\n        user = User.query.filter_by(email=form.email.data).first()\n        if user and bcrypt.check_password_hash(user.password, form.password.data):\n            login_user(user, remember=True)\n            next_page = request.args.get('next')\n            return redirect(next_page) if next_page else redirect(url_for('main.index'))",
+        "detail": "Flaskapp.templates.app.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "Flaskapp.templates.app.auth_routes",
+        "description": "Flaskapp.templates.app.auth_routes",
+        "peekOfCode": "def logout():\n    logout_user()\n    return redirect(url_for('main.index'))",
+        "detail": "Flaskapp.templates.app.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "bp",
+        "kind": 5,
+        "importPath": "Flaskapp.templates.app.auth_routes",
+        "description": "Flaskapp.templates.app.auth_routes",
+        "peekOfCode": "bp = Blueprint('auth', __name__)\n@bp.route('/register', methods=['GET', 'POST'])\ndef register():\n    if current_user.is_authenticated:\n        return redirect(url_for('main.index'))\n    form = RegistrationForm()\n    if form.validate_on_submit():\n        hashed_password = bcrypt.generate_password_hash(form.password.data).decode('utf-8')\n        user = User(username=form.username.data, email=form.email.data, password=hashed_password)\n        db.session.add(user)",
+        "detail": "Flaskapp.templates.app.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "RegistrationForm",
+        "kind": 6,
+        "importPath": "Flaskapp.templates.app.forms",
+        "description": "Flaskapp.templates.app.forms",
+        "peekOfCode": "class RegistrationForm(FlaskForm):\n    username = StringField('Username', validators=[DataRequired(), Length(min=2, max=20)])\n    email = StringField('Email', validators=[DataRequired(), Email()])\n    password = PasswordField('Password', validators=[DataRequired()])\n    confirm_password = PasswordField('Confirm Password', validators=[DataRequired(), EqualTo('password')])\n    submit = SubmitField('Sign Up')\n    def validate_username(self, username):\n        user = User.query.filter_by(username=username.data).first()\n        if user:\n            raise ValidationError('That username is taken. Please choose a different one.')",
+        "detail": "Flaskapp.templates.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "LoginForm",
+        "kind": 6,
+        "importPath": "Flaskapp.templates.app.forms",
+        "description": "Flaskapp.templates.app.forms",
+        "peekOfCode": "class LoginForm(FlaskForm):\n    email = StringField('Email', validators=[DataRequired(), Email()])\n    password = PasswordField('Password', validators=[DataRequired()])\n    submit = SubmitField('Login')\nclass PostForm(FlaskForm):\n    title = StringField('Title', validators=[DataRequired()])\n    content = TextAreaField('Content', validators=[DataRequired()])\n    submit = SubmitField('Post')",
+        "detail": "Flaskapp.templates.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PostForm",
+        "kind": 6,
+        "importPath": "Flaskapp.templates.app.forms",
+        "description": "Flaskapp.templates.app.forms",
+        "peekOfCode": "class PostForm(FlaskForm):\n    title = StringField('Title', validators=[DataRequired()])\n    content = TextAreaField('Content', validators=[DataRequired()])\n    submit = SubmitField('Post')",
+        "detail": "Flaskapp.templates.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "Flaskapp.templates.app.models",
+        "description": "Flaskapp.templates.app.models",
+        "peekOfCode": "class User(db.Model, UserMixin):\n    id = db.Column(db.Integer, primary_key=True)\n    username = db.Column(db.String(20), unique=True, nullable=False)\n    email = db.Column(db.String(120), unique=True, nullable=False)\n    image_file = db.Column(db.String(20), nullable=False, default='default.jpg')\n    password = db.Column(db.String(60), nullable=False)\n    posts = db.relationship('Post', backref='author', lazy=True)\n    def __repr__(self):\n        return f\"User('{self.username}', '{self.email}', '{self.image_file}')\"\nclass Post(db.Model):",
+        "detail": "Flaskapp.templates.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "Flaskapp.templates.app.models",
+        "description": "Flaskapp.templates.app.models",
+        "peekOfCode": "class Post(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(100), nullable=False)\n    date_posted = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)\n    content = db.Column(db.Text, nullable=False)\n    user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)\n    def __repr__(self):\n        return f\"Post('{self.title}', '{self.date_posted}')\"",
+        "detail": "Flaskapp.templates.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "load_user",
+        "kind": 2,
+        "importPath": "Flaskapp.templates.app.models",
+        "description": "Flaskapp.templates.app.models",
+        "peekOfCode": "def load_user(user_id):\n    return User.query.get(int(user_id))\nclass User(db.Model, UserMixin):\n    id = db.Column(db.Integer, primary_key=True)\n    username = db.Column(db.String(20), unique=True, nullable=False)\n    email = db.Column(db.String(120), unique=True, nullable=False)\n    image_file = db.Column(db.String(20), nullable=False, default='default.jpg')\n    password = db.Column(db.String(60), nullable=False)\n    posts = db.relationship('Post', backref='author', lazy=True)\n    def __repr__(self):",
+        "detail": "Flaskapp.templates.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Flaskapp.templates.app.routes",
+        "description": "Flaskapp.templates.app.routes",
+        "peekOfCode": "def index():\n    posts = Post.query.all()\n    return render_template('index.html', posts=posts)\n@bp.route('/post/new', methods=['GET', 'POST'])\n@login_required\ndef new_post():\n    form = PostForm()\n    if form.validate_on_submit():\n        post = Post(title=form.title.data, content=form.content.data, author=current_user)\n        db.session.add(post)",
+        "detail": "Flaskapp.templates.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "new_post",
+        "kind": 2,
+        "importPath": "Flaskapp.templates.app.routes",
+        "description": "Flaskapp.templates.app.routes",
+        "peekOfCode": "def new_post():\n    form = PostForm()\n    if form.validate_on_submit():\n        post = Post(title=form.title.data, content=form.content.data, author=current_user)\n        db.session.add(post)\n        db.session.commit()\n        flash('Your post has been created!', 'success')\n        return redirect(url_for('main.index'))\n    return render_template('create_post.html', title='New Post', form=form)\n@bp.route('/post/<int:post_id>')",
+        "detail": "Flaskapp.templates.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "post",
+        "kind": 2,
+        "importPath": "Flaskapp.templates.app.routes",
+        "description": "Flaskapp.templates.app.routes",
+        "peekOfCode": "def post(post_id):\n    post = Post.query.get_or_404(post_id)\n    return render_template('post.html', title=post.title, post=post)",
+        "detail": "Flaskapp.templates.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "bp",
+        "kind": 5,
+        "importPath": "Flaskapp.templates.app.routes",
+        "description": "Flaskapp.templates.app.routes",
+        "peekOfCode": "bp = Blueprint('main', __name__)\n@bp.route('/')\ndef index():\n    posts = Post.query.all()\n    return render_template('index.html', posts=posts)\n@bp.route('/post/new', methods=['GET', 'POST'])\n@login_required\ndef new_post():\n    form = PostForm()\n    if form.validate_on_submit():",
+        "detail": "Flaskapp.templates.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flaskapp.templates.app",
+        "description": "Flaskapp.templates.app",
+        "peekOfCode": "app = create_app()\nif __name__ == '__main__':\n    app.run(debug=True)",
+        "detail": "Flaskapp.templates.app",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "Flaskapp.templates.config",
+        "description": "Flaskapp.templates.config",
+        "peekOfCode": "class Config:\n    SECRET_KEY = 'your_secret_key'\n    SQLALCHEMY_DATABASE_URI = 'sqlite:///Flask-App.db'\n    SQLALCHEMY_TRACK_MODIFICATIONS = False",
+        "detail": "Flaskapp.templates.config",
+        "documentation": {}
+    },
+    {
+        "label": "copy_files",
+        "kind": 2,
+        "importPath": "Flaskapp.cli",
+        "description": "Flaskapp.cli",
+        "peekOfCode": "def copy_files(src, dest):\n    if os.path.exists(dest):\n        shutil.rmtree(dest)\n    shutil.copytree(src, dest)\n@click.command()\n@click.argument('app_name')\ndef create_flask_app(app_name):\n    \"\"\"Create a new Flask app with the given APP_NAME.\"\"\"\n    app_dir = os.path.join(os.getcwd(), app_name)\n    if os.path.exists(app_dir):",
+        "detail": "Flaskapp.cli",
+        "documentation": {}
+    },
+    {
+        "label": "create_flask_app",
+        "kind": 2,
+        "importPath": "Flaskapp.cli",
+        "description": "Flaskapp.cli",
+        "peekOfCode": "def create_flask_app(app_name):\n    \"\"\"Create a new Flask app with the given APP_NAME.\"\"\"\n    app_dir = os.path.join(os.getcwd(), app_name)\n    if os.path.exists(app_dir):\n        click.echo(f\"Directory {app_name} already exists!\")\n        return\n    os.makedirs(app_dir)\n    copy_files(os.path.join(TEMPLATES_DIR, 'app'), os.path.join(app_dir, 'app'))\n    shutil.copy(os.path.join(TEMPLATES_DIR, 'config.py'), app_dir)\n    shutil.copy(os.path.join(TEMPLATES_DIR, 'app.py'), app_dir)",
+        "detail": "Flaskapp.cli",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES_DIR",
+        "kind": 5,
+        "importPath": "Flaskapp.cli",
+        "description": "Flaskapp.cli",
+        "peekOfCode": "TEMPLATES_DIR = os.path.join(os.path.dirname(__file__), 'templates')\ndef copy_files(src, dest):\n    if os.path.exists(dest):\n        shutil.rmtree(dest)\n    shutil.copytree(src, dest)\n@click.command()\n@click.argument('app_name')\ndef create_flask_app(app_name):\n    \"\"\"Create a new Flask app with the given APP_NAME.\"\"\"\n    app_dir = os.path.join(os.getcwd(), app_name)",
+        "detail": "Flaskapp.cli",
+        "documentation": {}
+    }
+]
